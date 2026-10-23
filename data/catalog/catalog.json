@@ -1,0 +1,2289 @@
+{
+ "source_file": "Nature Transformations.xlsx",
+ "sheets": {
+  "Nature Chart": {
+   "headers": [
+    "English",
+    "Japanese (romaji)",
+    "Kanji",
+    "Strong against",
+    "Weak against",
+    "Note"
+   ],
+   "rows": [
+    {
+     "English": "Fire Release",
+     "Japanese (romaji)": "Katon",
+     "Kanji": "火遁",
+     "Strong against": "Wind",
+     "Weak against": "Water",
+     "Note": "Element kanji 火 (Hi). Release romaji/遁 kanji are standard series terminology (not quoted verbatim for the basics in the fetched page)."
+    },
+    {
+     "English": "Wind Release",
+     "Japanese (romaji)": "Fūton",
+     "Kanji": "風遁",
+     "Strong against": "Lightning",
+     "Weak against": "Fire",
+     "Note": "Element kanji 風 (Kaze)."
+    },
+    {
+     "English": "Lightning Release",
+     "Japanese (romaji)": "Raiton",
+     "Kanji": "雷遁",
+     "Strong against": "Earth",
+     "Weak against": "Wind",
+     "Note": "Element kanji 雷 (Kaminari)."
+    },
+    {
+     "English": "Earth Release",
+     "Japanese (romaji)": "Doton",
+     "Kanji": "土遁",
+     "Strong against": "Water",
+     "Weak against": "Lightning",
+     "Note": "Element kanji 土 (Tsuchi)."
+    },
+    {
+     "English": "Water Release",
+     "Japanese (romaji)": "Suiton",
+     "Kanji": "水遁",
+     "Strong against": "Fire",
+     "Weak against": "Earth",
+     "Note": "Element kanji 水 (Mizu)."
+    },
+    {
+     "English": "Yin Release",
+     "Japanese (romaji)": "Inton",
+     "Kanji": "陰遁",
+     "Strong against": "—",
+     "Weak against": "—",
+     "Note": "Non-elemental; based on spiritual energy / imagination. Underlies some genjutsu-type and form-creating abilities. Outside the five-nature cycle."
+    },
+    {
+     "English": "Yang Release",
+     "Japanese (romaji)": "Yōton",
+     "Kanji": "陽遁",
+     "Strong against": "—",
+     "Weak against": "—",
+     "Note": "Non-elemental; based on physical energy / vitality. Underlies life-giving / body-related techniques. Shares romaji 'Yōton' with Lava Release (熔遁/溶遁) but different kanji."
+    },
+    {
+     "English": "Yin–Yang Release",
+     "Japanese (romaji)": "In'yōton / Onmyōton",
+     "Kanji": "陰陽遁",
+     "Strong against": "—",
+     "Weak against": "—",
+     "Note": "Uses Yin and Yang simultaneously. Jutsu not researched (not an elemental combination)."
+    },
+    {
+     "English": "Cycle",
+     "Japanese (romaji)": "Fire > Wind > Lightning > Earth > Water > Fire  (each nature beats the next one in the loop and loses to the one before it)",
+     "Kanji": "",
+     "Strong against": "",
+     "Weak against": "",
+     "Note": ""
+    },
+    {
+     "English": "Notes",
+     "Japanese (romaji)": "Combined natures can inherit weaknesses (anime: Pakura's Scorch Release is weak to Water, Shippūden ep. 285). Kekkei tōta users are said (anime ep. 267) to have an affinity for all three natures they combine.",
+     "Kanji": "",
+     "Strong against": "",
+     "Weak against": "",
+     "Note": ""
+    },
+    {
+     "English": "Source",
+     "Japanese (romaji)": "https://naruto.fandom.com/wiki/Nature_Transformation",
+     "Kanji": "",
+     "Strong against": "",
+     "Weak against": "",
+     "Note": ""
+    }
+   ]
+  },
+  "Combined Natures": {
+   "headers": [
+    "English name",
+    "Romaji",
+    "Kanji",
+    "Component natures",
+    "Type",
+    "Component certainty",
+    "Notable users",
+    "Canon status",
+    "# jutsu listed",
+    "Notes"
+   ],
+   "rows": [
+    {
+     "English name": "Wood Release",
+     "Romaji": "Mokuton",
+     "Kanji": "木遁",
+     "Component natures": "Earth + Water",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Confirmed",
+     "Notable users": "Hashirama Senju (only natural user); Yamato, Danzō, Madara, Obito, White Zetsu, Orochimaru (via Hashirama cells); Moegi (Boruto); Asura Ōtsutsuki (anime-only); Katasuke & Momoshiki (Boruto movie novelisation); Ten-Tails/God Tree",
+     "Canon status": "Manga (with anime-only, Boruto and novel extensions)",
+     "# jutsu listed": "42",
+     "Notes": "Debut manga ch. 120 / anime ep. 71. Largest jutsu list; ~15 title-only leads included. Mud Release shares the Earth + Water pair."
+    },
+    {
+     "English name": "Ice Release",
+     "Romaji": "Hyōton",
+     "Kanji": "氷遁",
+     "Component natures": "Water + Wind",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Confirmed",
+     "Notable users": "Haku; Kahyō, Rahyō (Kakashi Hiden novel); Ryōgi (Boruto anime); Yuki clan; Land of Snow movie users (Nadare, Dotō, Fubuki)",
+     "Canon status": "Manga (novel, movie and Boruto-anime extensions)",
+     "# jutsu listed": "18",
+     "Notes": "Only one firmly manga-canon named jutsu (Demonic Mirroring Ice Crystals). Yukigakure ice (movie 1) and Sasuke's ice (Sasuke Shinden) are described as not true Ice Release, though Pixiv files the Land of Snow techniques under 氷遁."
+    },
+    {
+     "English name": "Lava Release",
+     "Romaji": "Yōton",
+     "Kanji": "熔遁 / 溶遁",
+     "Component natures": "Fire + Earth",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Confirmed",
+     "Notable users": "Son Gokū and Rōshi; Mei Terumī; Kurotsuchi; Dodai; Karyū; Boro (Kara); Kyūsuke (anime-only); Etoro Konjiki (Gaara Hiden novel)",
+     "Canon status": "Manga (with anime/novel/movie/Boruto users)",
+     "# jutsu listed": "13",
+     "Notes": "Forms vary by user: molten rock, acid, quicklime, rubber, ash. Shares romaji 'Yōton' with Yang Release (陽遁)."
+    },
+    {
+     "English name": "Boil Release",
+     "Romaji": "Futton",
+     "Kanji": "沸遁",
+     "Component natures": "Fire + Water",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Confirmed",
+     "Notable users": "Mei Terumī; Kokuō (Five-Tails) and its jinchūriki Han; Futsu (Sasuke Shinden novel); Naruto (per NB only)",
+     "Canon status": "Manga (novel/game appearances too)",
+     "# jutsu listed": "10",
+     "Notes": "Two forms: corrosive acid vapour (Mei) and boiling steam (Kokuō, the Five-Tails, and its jinchūriki Han)."
+    },
+    {
+     "English name": "Storm Release",
+     "Romaji": "Ranton",
+     "Kanji": "嵐遁",
+     "Component natures": "Lightning + Water",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Confirmed",
+     "Notable users": "Darui; unnamed Kumogakure shinobi; Madara Uchiha (Light Fang, per NB); Hiruko (movie)",
+     "Canon status": "Manga (movie and game extras)",
+     "# jutsu listed": "6",
+     "Notes": "Beams of electricity that flow like water. Hiruko's Storm Release (The Will of Fire) per MyAnimeList/NB."
+    },
+    {
+     "English name": "Scorch Release",
+     "Romaji": "Shakuton",
+     "Kanji": "灼遁",
+     "Component natures": "Fire + Wind",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Suggested",
+     "Notable users": "Pakura; Naruto + Sasuke combination (ch. 634)",
+     "Canon status": "Manga",
+     "# jutsu listed": "2",
+     "Notes": "Components not in infobox; inferred from Naruto + Sasuke's Wind/Fire combo being labelled Scorch (ch. 634). Anime shows it weak to Water."
+    },
+    {
+     "English name": "Explosion Release",
+     "Romaji": "Bakuton",
+     "Kanji": "爆遁",
+     "Component natures": "Earth + Lightning",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Suggested",
+     "Notable users": "Deidara; Gari; unnamed man (Sasuke Shinden); Iwagakure Explosion Corps",
+     "Canon status": "Manga",
+     "# jutsu listed": "11",
+     "Notes": "Chart notes treat components as suggested by elimination; v1 jutsu notes report the Explosion Release page as stating earth + lightning. Steel also gets Earth + Lightning from a game."
+    },
+    {
+     "English name": "Magnet Release",
+     "Romaji": "Jiton",
+     "Kanji": "磁遁",
+     "Component natures": "Wind + Earth",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Suggested",
+     "Notable users": "Third Kazekage; Rasa; Sasori (via puppet); Shinki (Boruto); Gaara; Toroi; Kajūra (Gaara Hiden); Shukaku; Naruto (Sage Art: Magnet Release Rasengan)",
+     "Canon status": "Manga (plus Boruto, novel, movie, game)",
+     "# jutsu listed": "12",
+     "Notes": "Components inferred from Rasa's natures. Also linked to Shukaku."
+    },
+    {
+     "English name": "Crystal Release",
+     "Romaji": "Shōton",
+     "Kanji": "晶遁",
+     "Component natures": "Unknown (Earth suggested)",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Unknown",
+     "Notable users": "Guren (confirmed: Three-Tails filler arc, eps. 89–112)",
+     "Canon status": "Anime-only",
+     "# jutsu listed": "23",
+     "Notes": "Earth inferred: Kiba mistakes it for Earth (ep. 91) and Lightning defeats it (ep. 104). Full jutsu list from a blog mirror of Narutopedia."
+    },
+    {
+     "English name": "Dust Release",
+     "Romaji": "Jinton",
+     "Kanji": "塵遁",
+     "Component natures": "Earth + Wind + Fire",
+     "Type": "Kekkei Tōta",
+     "Component certainty": "Confirmed",
+     "Notable users": "Ōnoki; Mū; Kakō (Boruto anime)",
+     "Canon status": "Manga",
+     "# jutsu listed": "4",
+     "Notes": "Only known true kekkei tōta (defined ch. 525). Same romaji as Swift Release (迅遁), different kanji."
+    },
+    {
+     "English name": "Swift Release",
+     "Romaji": "Jinton",
+     "Kanji": "迅遁",
+     "Component natures": "Unknown (Wind + Lightning per Naruto Mobile only; claim not re-checked)",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Game-only",
+     "Notable users": "Hiruko (stolen via Chimera Technique)",
+     "Canon status": "Movie-only",
+     "# jutsu listed": "1",
+     "Notes": "Viz: 'Quick Style'. Near-instant movement. Mirror wiki says elements unknown. Main Narutopedia page never loaded."
+    },
+    {
+     "English name": "Steel Release",
+     "Romaji": "Kōton",
+     "Kanji": "鋼遁",
+     "Component natures": "Unknown (Earth + Lightning implied by Naruto Mobile)",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Game-only",
+     "Notable users": "Metoro Konjiki (Gaara Hiden); Hiruko (movie); unnamed Purple Moon Religion member (Sasuke Shinden)",
+     "Canon status": "Novel / Movie",
+     "# jutsu listed": "4",
+     "Notes": "Combined with Lava Release as a novel 'pseudo kekkei tōta' (Giji Kekkei Tōta 擬似血継淘汰)."
+    },
+    {
+     "English name": "Blaze Release",
+     "Romaji": "Enton",
+     "Kanji": "炎遁",
+     "Component natures": "Fire variant (Fire + Lightning per Naruto Mobile only)",
+     "Type": "Sharingan-derived",
+     "Component certainty": "Game-only",
+     "Notable users": "Sasuke Uchiha (Mangekyō Sharingan)",
+     "Canon status": "Manga (Mangekyō Sharingan ability; Boruto-anime extension)",
+     "# jutsu listed": "7",
+     "Notes": "Not a true inherited two-nature kekkei genkai: shape transformation of Amaterasu's black flames via Kagutsuchi (ch. 464). Amaterasu itself is Fire Release. Main Blaze page never loaded."
+    },
+    {
+     "English name": "Mud Release",
+     "Romaji": "Deiton",
+     "Kanji": "泥遁",
+     "Component natures": "Water + Earth",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Confirmed",
+     "Notable users": "Ameyuki (only known practitioner)",
+     "Canon status": "Novel-only (Akatsuki Hiden: Evil Flowers in Full Bloom)",
+     "# jutsu listed": "4",
+     "Notes": "CORRECTED: earlier chart notes said anime-only; Ameyuki appears only in the novel. Same natures as Wood Release; Hidan doubted it existed."
+    },
+    {
+     "English name": "Typhoon Release",
+     "Romaji": "Taiton",
+     "Kanji": "颱遁",
+     "Component natures": "At least Wind (other unknown)",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Unknown",
+     "Notable users": "Nowaki (only user)",
+     "Canon status": "Novel (Sasuke Shinden: Book of Sunrise) + anime adaptation",
+     "# jutsu listed": "2",
+     "Notes": "Described as a stronger Wind variant. No named jutsu; unnamed abilities listed. Debut episode conflicts (ep. 484 vs 487)."
+    },
+    {
+     "English name": "Dark Release",
+     "Romaji": "Meiton",
+     "Kanji": "冥遁",
+     "Component natures": "Unknown",
+     "Type": "Kekkei Genkai",
+     "Component certainty": "Unknown",
+     "Notable users": "Hiruko",
+     "Canon status": "Movie-only",
+     "# jutsu listed": "1",
+     "Notes": "Viz: 'Shade Style'. Naruto Mobile places it at the centre of the nature chart. No named jutsu; unnamed ability listed."
+    },
+    {
+     "English name": "# jutsu listed = rows on that release's tab (header excluded), including title-only, unverified and '(unnamed ability)' rows.",
+     "Romaji": "",
+     "Kanji": "",
+     "Component natures": "",
+     "Type": "",
+     "Component certainty": "",
+     "Notable users": "",
+     "Canon status": "",
+     "# jutsu listed": "",
+     "Notes": ""
+    }
+   ]
+  },
+  "Wood": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Wood Release Technique (basic)",
+     "Romaji": "Mokuton no Jutsu",
+     "Kanji": "木遁の術",
+     "Description": "Basic wood control: angular timber grows from the ground, the arms or the palms.",
+     "Users": "",
+     "Canon status": "Manga",
+     "Verification": "Single source (Pixiv only); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/木遁(NARUTO)"
+    },
+    {
+     "Jutsu (English)": "Wood Clone Technique",
+     "Romaji": "Mokuton Bunshin / Moku Bunshin no Jutsu",
+     "Kanji": "木遁・木分身の術",
+     "Description": "The user's cells become plant matter to make a durable clone. It can fight on its own, merge with trees to scout, or ride along as a seed and act as a tracker; it soaks up damage instead of popping like a normal clone.",
+     "Users": "Hashirama Senju; Madara Uchiha (Yamato also per Pixiv's seed-tracking note; not separately verified)",
+     "Canon status": "Manga (ch. 288, 300, 301, 577, 632, 636, 638; Sha no Sho p.309)",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Clone_Technique"
+    },
+    {
+     "Jutsu (English)": "Multiple Wood Clone Technique",
+     "Romaji": "Tajū Mokuton Bunshin no Jutsu",
+     "Kanji": "木遁・多重木遁分身の術",
+     "Description": "Makes many wood clones at once. Madara sent five clones against each of the five Kage, and every clone used Susanoo.",
+     "Users": "Madara Uchiha",
+     "Canon status": "Manga (Fourth Shinobi World War)",
+     "Verification": "Single source (Pixiv only); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/木遁(NARUTO)"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Cutting Technique",
+     "Romaji": "Mokuton: Sashiki no Jutsu",
+     "Kanji": "木遁・挿し木の術",
+     "Description": "Sharp wooden spikes grow from the body and are used as blades or thrown. They branch out on impact or can be made to sprout remotely. This is the jutsu that killed Neji.",
+     "Users": "Obito Uchiha; Ten-Tails (through Obito and Madara's link to it)",
+     "Canon status": "Manga (ch. 605, 613–614)",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Cutting_Technique"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Four-Pillar House Technique",
+     "Romaji": "Mokuton: Shichūka no Jutsu",
+     "Kanji": "木遁・四柱家の術",
+     "Description": "Grows a ready-made house out of the ground in moments to shelter a team overnight; barrier tags around it hide it so the team can rest safely.",
+     "Users": "Yamato",
+     "Canon status": "Manga + anime; Sha no Sho p.305",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Four-Pillar_House_Technique"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Serial Pillar Houses Technique",
+     "Romaji": "Mokuton: Renchūka no Jutsu",
+     "Kanji": "木遁・連柱家の術",
+     "Description": "A larger version of the Four-Pillar House that raises many buildings at once. Yamato used it to rebuild Konoha after Pain's attack, and it left him exhausted.",
+     "Users": "Yamato",
+     "Canon status": "Manga (Fourth Databook p.327); anime shows houses painted with glass windows",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Serial_Pillar_Houses_Technique"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Four-Pillar Prison Technique",
+     "Romaji": "Mokuton: Shichūrō no Jutsu",
+     "Kanji": "木遁・四柱牢の術",
+     "Description": "Timber shot up from underground forms a cage around the target instantly. Cage size depends on the chakra used, and the chakra coating makes it very hard to break.",
+     "Users": "Yamato",
+     "Canon status": "Manga + anime; movie Blood Prison; Sha no Sho p.306",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Four-Pillar_Prison_Technique"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Great Forest Technique",
+     "Romaji": "Mokuton: Daijurin no Jutsu",
+     "Kanji": "木遁・大樹林の術",
+     "Description": "The user's arm becomes trees that grow fast and branch out, catching enemies or skewering them with stake-like tips.",
+     "Users": "Yamato",
+     "Canon status": "Manga (ch. 302); Sha no Sho p.306",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Great_Forest_Technique"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Smothering Binding Technique",
+     "Romaji": "Mokuton: Mokusatsu Shibari no Jutsu",
+     "Kanji": "木遁・黙殺縛りの術",
+     "Description": "The arm turns into branches that wrap the target like rope and pin it in place. Strong enough to hold a giant squid.",
+     "Users": "",
+     "Canon status": "Manga + anime (Fourth Databook p.327)",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Smothering_Binding_Technique"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Wood Locking Wall",
+     "Romaji": "Mokuton: Mokujōheki",
+     "Kanji": "木遁・木錠壁",
+     "Description": "Pillars rise on both sides of the user and close into a protective dome. It can block shockwaves or trap a close-range enemy inside.",
+     "Users": "",
+     "Canon status": "Manga (ch. 293); Sha no Sho p.308; card game",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Wood_Locking_Wall"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Transformation",
+     "Romaji": "Mokuton Henge",
+     "Kanji": "木遁変化",
+     "Description": "The user is wrapped in wood shaped like another person, worn like a costume, and can change their voice. The wood shell can also block attacks.",
+     "Users": "Yamato",
+     "Canon status": "Anime-only (per Pixiv; Narutopedia page does not say)",
+     "Verification": "Verified (users); canon status single source (Pixiv); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Transformation"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Tree Bind Flourishing Burial",
+     "Romaji": "Mokuton: Jubaku Eisō",
+     "Kanji": "木遁・樹縛栄葬",
+     "Description": "Roots grab the target's feet and sink them into the ground, then a tree grows around them and crushes them. Needs prepared (broken-up, watered) ground.",
+     "Users": "Yamato",
+     "Canon status": "Anime-only (Pixiv); Narutopedia tags Anime and Game",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Tree_Bind_Flourishing_Burial"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Nativity of a Sea of Trees",
+     "Romaji": "Mokuton: Jukai Kōtan",
+     "Kanji": "木遁・樹海降誕",
+     "Description": "After hand seals, the surrounding area becomes dense forest within moments. A smaller-scale version of Hashirama's World of Trees.",
+     "Users": "Yamato",
+     "Canon status": "Narutopedia tags Anime, Manga and Game; no debut chapter given",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Nativity_of_a_Sea_of_Trees"
+    },
+    {
+     "Jutsu (English)": "Wood Release Secret Technique: Nativity of a World of Trees (aka Deep Forest Emergence)",
+     "Romaji": "Mokuton Hijutsu: Jukai Kōtan",
+     "Kanji": "木遁秘術・樹界降誕",
+     "Description": "Grows an enormous forest whose trees split the earth and trap enemies before they can escape. Said to have formed the base of Konoha; Tō no Sho classes it as a hiden.",
+     "Users": "Hashirama Senju; Kinoe/Yamato attempted it and failed (anime ep. 355); Pixiv says Yamato uses a smaller-scale version",
+     "Canon status": "Manga; Tō no Sho p.279; anime eps 322 and 355",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release_Secret_Technique:_Nativity_of_a_World_of_Trees"
+    },
+    {
+     "Jutsu (English)": "Divine: Nativity of a World of Trees",
+     "Romaji": "Shin: Jukai Kōtan",
+     "Kanji": "神・樹界降誕",
+     "Description": "The God Tree's root network wraps those caught in Infinite Tsukuyomi in vine cocoons and drains their chakra; Black Zetsu says the aim is to turn them into White Zetsu.",
+     "Users": "",
+     "Canon status": "Manga (Infinite Tsukuyomi arc)",
+     "Verification": "Single source (Pixiv only); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/木遁(NARUTO)"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Advent of an Arboreal Paradise",
+     "Romaji": "Mokuton: Kajukai Kōrin",
+     "Kanji": "木遁・花樹界降臨",
+     "Description": "Roots and stems choke the area and open into giant flowers whose pollen paralyzes anyone who breathes it until the pollen runs out.",
+     "Users": "Madara Uchiha (including as Edo Tensei Madara against the Five Kage)",
+     "Canon status": "Manga",
+     "Verification": "Single source (Pixiv only); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/木遁(NARUTO)"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Wood Dragon Technique",
+     "Romaji": "Mokuton: Mokuryū no Jutsu",
+     "Kanji": "木遁・木龍の術",
+     "Description": "A huge wooden dragon binds tailed beasts and drains their chakra by biting. The anime also makes it explode.",
+     "Users": "Hashirama Senju; Edo Tensei Madara (Pixiv)",
+     "Canon status": "Manga (ch. 608; Fourth Databook p.300); anime eps 368 and 388; games",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Wood_Dragon_Technique"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Wood Human Technique",
+     "Romaji": "Mokuton: Mokujin no Jutsu",
+     "Kanji": "木遁・木人の術",
+     "Description": "A giant oni-faced wooden warrior with a dragon wrapped around it. Strong enough to catch a Tailed Beast Ball, and often used together with the Wood Dragon.",
+     "Users": "Hashirama Senju (Pixiv); Tobi credited in Jin no Sho but never shown using it",
+     "Canon status": "Manga/databook; anime adds self-destructing dragon heads",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Wood_Human_Technique"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Hōbi Technique",
+     "Romaji": "Mokuton: Hōbi no Jutsu",
+     "Kanji": "木遁・榜排の術",
+     "Description": "Quickly encloses the user in a protective dome (Narutopedia: looks like a dragon's face; Pixiv: human-shaped). A sealing-type defence that blunts attacks and splits open on command; Hashirama used it to survive Kurama's Tailed Beast Ball.",
+     "Users": "Hashirama Senju",
+     "Canon status": "Manga (Fourth Databook p.327)",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_H%C5%8Dbi_Technique"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Everyone Hotei Technique (English name not verified; possibly = 'Wood Release: Complete Capture')",
+     "Romaji": "Mokuton: Kaihotei no Jutsu",
+     "Kanji": "木遁・皆布袋の術",
+     "Description": "Many giant wooden hands burst from the ground to grab enemies. Quicker to bring out than the Wood Human.",
+     "Users": "",
+     "Canon status": "Manga",
+     "Verification": "Single source (Pixiv only); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/木遁(NARUTO)"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Great Spear Tree (Narutopedia page 'Great Tree Spear' exists but did not load)",
+     "Romaji": "Mokuton: Daisōju",
+     "Kanji": "木遁・大槍樹",
+     "Description": "A huge pointed tree shoots out of the ground and skewers several enemies at once.",
+     "Users": "",
+     "Canon status": "Manga",
+     "Verification": "Single source (Pixiv only); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/木遁(NARUTO)"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Tree World Wall (English name not verified)",
+     "Romaji": "Mokuton: Jukaiheki",
+     "Kanji": "木遁・樹界壁",
+     "Description": "Large trees stack together to form a wall.",
+     "Users": "",
+     "Canon status": "Anime-only (Pixiv)",
+     "Verification": "Single source (Pixiv only); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/木遁(NARUTO)"
+    },
+    {
+     "Jutsu (English)": "Sage Art Wood Release: True Several Thousand Hands",
+     "Romaji": "Senpō Mokuton: Shin Sūsenju",
+     "Kanji": "仙法木遁・真数千手",
+     "Description": "In Sage Mode, the user raises a colossal Kannon statue with rings of thousands of hands that fights, defends and holds down tailed beasts, and can shed its back arms to move faster.",
+     "Users": "Hashirama Senju; per Pixiv also Guruguru (through Yamato's body) and Asura Ōtsutsuki (anime)",
+     "Canon status": "Manga (ch. 621, 626)",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Sage_Art_Wood_Release:_True_Several_Thousand_Hands"
+    },
+    {
+     "Jutsu (English)": "Top Transformed Buddha",
+     "Romaji": "Chōjō Kebutsu",
+     "Kanji": "",
+     "Description": "A one-shot version of the Several Thousand Hands that strikes with every hand at once and wrecks the statue's back arms, plus a weaker reusable version. (Fetch summary may have mixed this up with True Several Thousand Hands.)",
+     "Users": "Hashirama; Tobi (per page)",
+     "Canon status": "Fourth Databook pp.266–267; Ultimate Ninja Storm Revolution",
+     "Verification": "Verified (fetch unclear); romaji not verified",
+     "Source": "https://naruto.fandom.com/wiki/Top_Transformed_Buddha"
+    },
+    {
+     "Jutsu (English)": "Hokage-Style Sixty-Year-Old Technique — Kakuan Entering Society with Bliss-Bringing Hands",
+     "Romaji": "Hokage-shiki Jijun Jutsu: Kakuan Nitten Suishu",
+     "Kanji": "火影式耳順術・廓庵入鄽垂手",
+     "Description": "A 'seat' (座) mark appears on the user's palm; touching a tailed beast with it suppresses the beast's power. Used with Wood Release.",
+     "Users": "Hashirama Senju; Yamato",
+     "Canon status": "Manga",
+     "Verification": "Verified (Pixiv gives the reading)",
+     "Source": "https://dic.pixiv.net/a/木遁(NARUTO) ; https://naruto.fandom.com/wiki/Hashirama_Senju"
+    },
+    {
+     "Jutsu (English)": "Wood Release (Secret Technique): All Creation",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Wooden tendrils weave a wall around the target's limbs to bind them, then the user hits them with a chakra-charged punch. (Page cites the idiom 森羅万象, Shinra Banshō.)",
+     "Users": "Hashirama",
+     "Canon status": "Debut not given; probably game or anime",
+     "Verification": "Verified (canon status unverified)",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_All_Creation"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Underground Roots Technique",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Roots grow underground to catch or drain targets (researcher-memory lead; not confirmed).",
+     "Users": "",
+     "Canon status": "Uncertain",
+     "Verification": "Unverified (v1 researcher-memory lead; not in v2)",
+     "Source": ""
+    },
+    {
+     "Jutsu (English)": "Wood Release: Wooden Spear Heavenly Tear",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists; content not read).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Wooden_Spear_Heavenly_Tear"
+    },
+    {
+     "Jutsu (English)": "Sage Art: Wood Release: Wood Dragon Dance Performance",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists; surfaced in a search filtered on game titles).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Sage_Art:_Wood_Release:_Wood_Dragon_Dance_Performance"
+    },
+    {
+     "Jutsu (English)": "Sage Art: Wood Release: Ground Pulse",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists; content not read).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Sage_Art:_Wood_Release:_Ground_Pulse"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Revolt of Hell",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists; content not read).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Revolt_of_Hell"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Complete Capture",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (possibly the same as 皆布袋の術 / Everyone Hotei above).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Complete_Capture"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Nativity of Trees",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists; content not read).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Nativity_of_Trees"
+    },
+    {
+     "Jutsu (English)": "Sea of Trees Erosion",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists; content not read).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Sea_of_Trees_Erosion"
+    },
+    {
+     "Jutsu (English)": "Impaling Spear Tree",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists; content not read).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Impaling_Spear_Tree"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Hand Tool Manipulation",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (found through a Yamato search).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Hand_Tool_Manipulation"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Wooden Mallet",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists; content not read).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Wooden_Mallet"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Great Wooden Mallet",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists; content not read).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Great_Wooden_Mallet"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Cypress Nail",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (appeared beside a Concept:Jutsu/Anime result).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Cypress_Nail"
+    },
+    {
+     "Jutsu (English)": "Wood Release: Great Forest Crumbling",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (surfaced in a search filtered on game titles).",
+     "Users": "",
+     "Canon status": "Not verified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Wood_Release:_Great_Forest_Crumbling"
+    },
+    {
+     "Jutsu (English)": "Kanzeon Lotus King",
+     "Romaji": "Kanzeon",
+     "Kanji": "観世音",
+     "Description": "A Several-Thousand-Hands-style giant avatar without senjutsu chakra whose small faces channel all five natures. The page does not classify it as Wood Release.",
+     "Users": "Tobi, using Yamato as a medium (per page)",
+     "Canon status": "Not stated",
+     "Verification": "Title only (listed with title-only leads; summary read but classification not confirmed)",
+     "Source": "https://naruto.fandom.com/wiki/Kanzeon_Lotus_King"
+    },
+    {
+     "Jutsu (English)": "Heavenly Insertion Hammering Star",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Collaboration attack: Obito's Cutting Technique throws the target upward and traps it, then Madara's Tengai Shinsei meteor falls on it. Only partly Wood Release.",
+     "Users": "Obito Uchiha + Madara Uchiha",
+     "Canon status": "Not stated (probably a game)",
+     "Verification": "Title only (listed with title-only leads; summary read)",
+     "Source": "https://naruto.fandom.com/wiki/Heavenly_Insertion_Hammering_Star"
+    }
+   ]
+  },
+  "Ice": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Secret Technique: Demonic Mirroring Ice Crystals",
+     "Romaji": "Hijutsu: Makyō Hyōshō",
+     "Kanji": "氷遁秘術・魔鏡氷晶",
+     "Description": "Ice mirrors that reflect only the user form a dome around the target; the user flashes between them and throws senbon from every angle. Costly in chakra, and fire does not melt the mirrors. The Yuki clan's ultimate technique.",
+     "Users": "Haku",
+     "Canon status": "Manga (ch. 24–28, 521, 524) + anime (ep. 17)",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Demonic_Mirroring_Ice_Crystals ; https://dic.pixiv.net/a/氷遁"
+    },
+    {
+     "Jutsu (English)": "Ice Release: Ice Rock Dome (English name is researcher's rendering)",
+     "Romaji": "Hyōgan Dōmu",
+     "Kanji": "氷遁・氷岩堂無",
+     "Description": "A half-sphere wall of ice that guards against attacks from every direction.",
+     "Users": "Haku (Pixiv)",
+     "Canon status": "Unverified medium (Haku's dome is unnamed in Narutopedia's Haku page; name probably from game/anime)",
+     "Verification": "Single source (Pixiv); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/氷遁 ; https://naruto.fandom.com/wiki/Haku"
+    },
+    {
+     "Jutsu (English)": "Ice Release: One-Horned White Whale",
+     "Romaji": "Ikkaku Hakugei",
+     "Kanji": "氷遁・一角白鯨",
+     "Description": "Creates a huge one-horned whale of ice that slams down onto the opponent from above.",
+     "Users": "Nadare Rōga; Kakashi Hatake (copy) (Pixiv)",
+     "Canon status": "Movie-only (Ninja Clash in the Land of Snow)",
+     "Verification": "Single source (Pixiv; Narutopedia page failed); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/氷遁"
+    },
+    {
+     "Jutsu (English)": "Ice Release: Black Dragon Blizzard",
+     "Romaji": "Kokuryū Bōfūsetsu",
+     "Kanji": "氷遁・黒龍暴風雪",
+     "Description": "With a hand seal and a thrust of the arm, the user sends a spinning black dragon made from existing ice that hurls the target into the air.",
+     "Users": "Dotō Kazahana",
+     "Canon status": "Movie-only",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Ice_Release:_Black_Dragon_Blizzard ; https://dic.pixiv.net/a/氷遁"
+    },
+    {
+     "Jutsu (English)": "Ice Release: Twin Dragon Blizzard",
+     "Romaji": "Sōryū Bōfūsetsu",
+     "Kanji": "氷遁・双龍暴風雪",
+     "Description": "A stronger version of Black Dragon Blizzard: two black dragons rise from the ground and merge into a huge tornado.",
+     "Users": "Dotō Kazahana",
+     "Canon status": "Movie-only",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Ice_Release:_Twin_Dragon_Blizzard ; https://dic.pixiv.net/a/氷遁"
+    },
+    {
+     "Jutsu (English)": "Ice Release: Tearing Dragon Fierce Tiger",
+     "Romaji": "Haryū Mōko",
+     "Kanji": "氷遁・破龍猛虎",
+     "Description": "Shapes existing ice into a giant tiger cold enough to freeze any Water Release jutsu it touches.",
+     "Users": "Nadare Rōga (Pixiv; Narutopedia text named no user)",
+     "Canon status": "Movie-only",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Ice_Release:_Tearing_Dragon_Fierce_Tiger ; https://dic.pixiv.net/a/氷遁"
+    },
+    {
+     "Jutsu (English)": "Ice Release: Wolf Fang Avalanche Technique",
+     "Romaji": "Rōga Nadare no Jutsu",
+     "Kanji": "氷遁・狼牙雪崩の術",
+     "Description": "Sets off an avalanche on a slope and turns the falling snow into a pack of wolves. Lightning breaks it (Kakashi's Lightning Cutter dissolved the wolves).",
+     "Users": "Nadare Rōga",
+     "Canon status": "Movie-only",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Ice_Release:_Wolf_Fang_Avalanche_Technique ; https://dic.pixiv.net/a/氷遁"
+    },
+    {
+     "Jutsu (English)": "Ice Release: Swallow Snowstorm",
+     "Romaji": "Tsubame Fubuki",
+     "Kanji": "氷遁・ツバメ吹雪",
+     "Description": "Launches swallow-shaped ice that turns into needles and strikes the target. Fire Release breaks it.",
+     "Users": "Fubuki Kakuyoku",
+     "Canon status": "Movie-only",
+     "Verification": "Single source (Pixiv; jutsu page failed, Fubuki page consistent); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/氷遁 ; https://naruto.fandom.com/wiki/Fubuki_Kakuyoku"
+    },
+    {
+     "Jutsu (English)": "Ice Prison Technique",
+     "Romaji": "Hyōrō no Jutsu",
+     "Kanji": "氷牢の術",
+     "Description": "Chakra-filled ice rises from the ground to encase and trap an opponent, or to shield the user. It resists basic Fire Release.",
+     "Users": "Fubuki Kakuyoku (Pixiv; Narutopedia text named no user)",
+     "Canon status": "Movie-only",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Ice_Prison_Technique ; https://dic.pixiv.net/a/氷遁"
+    },
+    {
+     "Jutsu (English)": "Ice Release: Earthen Consecutive Chains of Ice",
+     "Romaji": "Chisarenhyō",
+     "Kanji": "氷遁・地鎖連氷",
+     "Description": "Forms ice particles on a target, by touch or from a distance, and freezes it from the inside; only coating oneself in chakra stops it, and moulding chakra for anything else restarts the freezing. Kahyō used it to keep prisoners from escaping.",
+     "Users": "Kahyō",
+     "Canon status": "Novel (Kakashi Hiden: Lightning in the Icy Sky)",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Ice_Release:_Earthen_Consecutive_Chains_of_Ice ; https://dic.pixiv.net/a/氷遁"
+    },
+    {
+     "Jutsu (English)": "Ice Release: Ice Crushing Hammer (English name from page URL; page failed)",
+     "Romaji": "Saihyōtsui",
+     "Kanji": "氷遁・砕氷槌",
+     "Description": "Freezes chakra inside both hands to harden the fists for strikes.",
+     "Users": "Rahyō (Pixiv)",
+     "Canon status": "Novel (Kakashi Hiden)",
+     "Verification": "Single source (Pixiv); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/氷遁 ; https://naruto.fandom.com/wiki/Rahy%C5%8D"
+    },
+    {
+     "Jutsu (English)": "Ice Release: Ice Sword Technique (page failed)",
+     "Romaji": "Hyōken no Jutsu",
+     "Kanji": "氷遁・氷剣の術",
+     "Description": "Condenses moisture in the air into ice daggers to stab enemies.",
+     "Users": "Rahyō (Pixiv) — conflicts with Narutopedia, which credits Kahyō with forming ice swords (unnamed)",
+     "Canon status": "Novel (Kakashi Hiden)",
+     "Verification": "Single source (Pixiv); user attribution conflicts; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/氷遁 ; https://naruto.fandom.com/wiki/Kahy%C5%8D"
+    },
+    {
+     "Jutsu (English)": "Ice Release: Crystal Wall",
+     "Romaji": "Suishōheki",
+     "Kanji": "氷遁・水晶壁",
+     "Description": "Walls of ice crystals block or hold opponents; their mirror-like surfaces carry a genjutsu trap for anyone who looks at the reflection.",
+     "Users": "Ryōgi (Pixiv; Narutopedia text named no user)",
+     "Canon status": "Anime-only (Boruto anime)",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Ice_Release:_Crystal_Wall ; https://dic.pixiv.net/a/氷遁"
+    },
+    {
+     "Jutsu (English)": "Ice Release: Mangehyō (page failed)",
+     "Romaji": "Mangehyō",
+     "Kanji": "氷遁・万華氷",
+     "Description": "Freezes moisture in the air into countless ice blades and fires them.",
+     "Users": "Ryōgi",
+     "Canon status": "Anime-only (Boruto anime)",
+     "Verification": "Single source (Pixiv); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/氷遁"
+    },
+    {
+     "Jutsu (English)": "Ice Release: Hiding in Frost",
+     "Romaji": "Hyōton: Shimogakure no Jutsu",
+     "Kanji": "",
+     "Description": "The user hides by dissolving into frost or mist (researcher-memory lead).",
+     "Users": "",
+     "Canon status": "Uncertain",
+     "Verification": "Unverified (v1 researcher-memory lead; not in v2)",
+     "Source": ""
+    },
+    {
+     "Jutsu (English)": "Certain-Kill Ice Spears",
+     "Romaji": "Hissatsu Hyōsō",
+     "Kanji": "",
+     "Description": "Freezes water into spears that strike the target (researcher-memory lead).",
+     "Users": "",
+     "Canon status": "Believed anime-only",
+     "Verification": "Unverified (v1 researcher-memory lead; not in v2)",
+     "Source": ""
+    },
+    {
+     "Jutsu (English)": "Ice Release: Ice Disk",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Named only in a v1 memory list of 'various anime or game ice techniques'; no details.",
+     "Users": "",
+     "Canon status": "Believed anime/game",
+     "Verification": "Unverified (v1 researcher-memory lead)",
+     "Source": ""
+    },
+    {
+     "Jutsu (English)": "Ice Release: Blasting Ice Crystal",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Named only in a v1 memory list of 'various anime or game ice techniques'; no details.",
+     "Users": "",
+     "Canon status": "Believed anime/game",
+     "Verification": "Unverified (v1 researcher-memory lead)",
+     "Source": ""
+    }
+   ]
+  },
+  "Lava": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Lava Release: Rubber Wall",
+     "Romaji": "Yōton: Gomuheki",
+     "Kanji": "熔遁・護謨壁",
+     "Description": "Lava rises into a flexible rubber-like wall that bends to absorb an impact. It can also reinforce an Earth Release wall.",
+     "Users": "Dodai; Karyū (Pixiv; Karyū's use is novel)",
+     "Canon status": "Manga (ch. 554); Fourth Databook p.327",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Lava_Release:_Rubber_Wall ; https://naruto.fandom.com/wiki/Dodai ; https://dic.pixiv.net/a/熔遁"
+    },
+    {
+     "Jutsu (English)": "Lava Release: Rubber Spheres",
+     "Romaji": "Yōton: Gomumari",
+     "Kanji": "熔遁・護謨鞠",
+     "Description": "Spits lava that hardens into a hollow, bouncy rubber ball; defensively it encloses and protects an object. Karyū's darker, denser version is a remote-controlled projectile that speeds up off surfaces.",
+     "Users": "Dodai (ch. 555); Karyū (novel)",
+     "Canon status": "Manga (ch. 555) + Fourth Databook p.327; Karyū's version novel (Sasuke Shinden). Conflict: Pixiv calls it novel-original",
+     "Verification": "Verified (canon status conflicts between sources)",
+     "Source": "https://naruto.fandom.com/wiki/Lava_Release:_Rubber_Ball ; https://dic.pixiv.net/a/熔遁"
+    },
+    {
+     "Jutsu (English)": "Lava Release: Rubber Ball (separate Pixiv entry)",
+     "Romaji": "Gomudama",
+     "Kanji": "熔遁・護謨玉",
+     "Description": "A rubber-ball technique credited to Dodai; Pixiv gives no description. Narutopedia may have merged it with Rubber Spheres.",
+     "Users": "Dodai (Pixiv)",
+     "Canon status": "Unverified (no origin label)",
+     "Verification": "Single source (Pixiv); romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://dic.pixiv.net/a/熔遁"
+    },
+    {
+     "Jutsu (English)": "Lava Release: Quicklime Congealing Technique",
+     "Romaji": "Sekkaigyō no Jutsu",
+     "Kanji": "熔遁・石灰凝の術",
+     "Description": "Spits a mass of quicklime that sets like cement when it meets water, pinning the target. Water Release can spread it.",
+     "Users": "Kurotsuchi (Pixiv); Kyūsuke (anime); unnamed Iwagakure ninja (ch. 612)",
+     "Canon status": "Manga (ch. 514, 612) + Fourth Databook p.327; Kyūsuke's use anime",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Lava_Release:_Quicklime_Congealing_Technique ; https://dic.pixiv.net/a/熔遁"
+    },
+    {
+     "Jutsu (English)": "Lava Release: Ash Stone Seal Technique",
+     "Romaji": "Yōton: Kaisekifū no Jutsu",
+     "Kanji": "熔遁・灰石封の術",
+     "Description": "Breathes out a dense cloud of ash that wraps around and binds a target; more chakra tightens the hold.",
+     "Users": "Kurotsuchi (Pixiv: used against Kinshiki)",
+     "Canon status": "Boruto manga (ch. 7); also Boruto: Naruto the Movie",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Lava_Release:_Ash_Stone_Seal_Technique ; https://dic.pixiv.net/a/熔遁"
+    },
+    {
+     "Jutsu (English)": "Lava Release: Scorching Stream Rock Technique (page failed)",
+     "Romaji": "Yōton: Shakugaryūgan no Jutsu",
+     "Kanji": "熔遁・灼河流岩の術",
+     "Description": "Fires lava projectiles (description from earlier notes, unverified).",
+     "Users": "Rōshi (Pixiv)",
+     "Canon status": "Unverified medium (believed manga)",
+     "Verification": "Single source (Pixiv)",
+     "Source": "https://dic.pixiv.net/a/熔遁 ; https://naruto.fandom.com/wiki/Lava_Release:_Scorching_Stream_Rock_Technique"
+    },
+    {
+     "Jutsu (English)": "Lava Release Chakra Mode",
+     "Romaji": "Yōton Chakura Mōdo",
+     "Kanji": "熔遁チャクラモード",
+     "Description": "After bringing out one of Son Gokū's tails, the user coats himself in lava, powering up strikes, burning without contact and deterring physical attackers.",
+     "Users": "Rōshi",
+     "Canon status": "Unverified medium (no refs in fetched text)",
+     "Verification": "Verified (medium unverified); romaji romanised from kana by researcher",
+     "Source": "https://naruto.fandom.com/wiki/Lava_Release_Chakra_Mode ; https://dic.pixiv.net/a/熔遁"
+    },
+    {
+     "Jutsu (English)": "Sage Art: Lava Release Rasenshuriken",
+     "Romaji": "Senpō: Yōton Rasenshuriken",
+     "Kanji": "仙法・熔遁螺旋手裏剣",
+     "Description": "A Rasenshuriken with a lava core made with Son Gokū's chakra; its blades give off steam, and an expanded version cut through the Ten-Tails' tree form.",
+     "Users": "Naruto Uzumaki (with Son Gokū's chakra)",
+     "Canon status": "Manga (Pixiv label)",
+     "Verification": "Verified; romaji romanised from kanji by researcher (not quoted from source)",
+     "Source": "https://naruto.fandom.com/wiki/Sage_Art:_Lava_Release_Rasenshuriken ; https://dic.pixiv.net/a/熔遁"
+    },
+    {
+     "Jutsu (English)": "Lava Release: Melting Apparition Technique (formerly 'Lava Monster')",
+     "Romaji": "Yōkai",
+     "Kanji": "溶怪",
+     "Description": "Turns chakra into strong acid that the user spits as a shot or spreads as a wall; it corrodes anything, even Susanoo. (Pun on 妖怪 'apparition' / 溶解 'dissolution'.)",
+     "Users": "Mei Terumī",
+     "Canon status": "Manga (ch. 563; Fourth Databook p.302); first drawn as lava in the anime; games and movies",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Lava_Release:_Melting_Apparition_Technique"
+    },
+    {
+     "Jutsu (English)": "Lava Release: Planet-Branding Blast (fetched page showed 'Muddy Stream Wave' 溶遁・濁流波)",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Acid spat from the mouth as a projectile, or made to erupt from under the ground in a large blast that melts objects.",
+     "Users": "Boro (per Lava Release page trivia)",
+     "Canon status": "Boruto (manga and anime)",
+     "Verification": "Verified (name unresolved; romaji not confirmed)",
+     "Source": "https://naruto.fandom.com/wiki/Lava_Release:_Planet-Branding_Blast ; https://naruto.fandom.com/wiki/Boro"
+    },
+    {
+     "Jutsu (English)": "(unnamed ability) Son Gokū volcanoes and green flame",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Son Gokū creates volcanoes and green flame.",
+     "Users": "Son Gokū",
+     "Canon status": "Manga",
+     "Verification": "Verified (character page)",
+     "Source": "https://naruto.fandom.com/wiki/Son_Gok%C5%AB"
+    },
+    {
+     "Jutsu (English)": "(unnamed ability) Etoro's flaming bullets and flame rings",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Fires flaming bullets and expanding flame rings.",
+     "Users": "Etoro Konjiki",
+     "Canon status": "Novel (Gaara Hiden)",
+     "Verification": "Verified (character page)",
+     "Source": "https://naruto.fandom.com/wiki/Etoro_Konjiki"
+    },
+    {
+     "Jutsu (English)": "(unnamed ability) Dodai's rubber ropes and tubes",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Makes rubber ropes and tubes.",
+     "Users": "Dodai",
+     "Canon status": "Not stated",
+     "Verification": "Verified (character page)",
+     "Source": "https://naruto.fandom.com/wiki/Dodai"
+    }
+   ]
+  },
+  "Boil": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Boil Release: Skilled Mist Technique",
+     "Romaji": "Futton: Kōmu no Jutsu",
+     "Kanji": "沸遁・巧霧の術",
+     "Description": "The user breathes out a highly acidic mist that dissolves flesh and even chakra constructs such as Susanoo. It harms friend and foe alike, and its acidity can be adjusted.",
+     "Users": "Mei Terumī; Futsu (novel)",
+     "Canon status": "Manga (ch. 466; Fourth Databook p.292) / anime (ep. 204); Futsu: novel Sasuke Shinden",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Boil_Release:_Skilled_Mist_Technique ; https://naruto-boutique.com/en/blogs/naruto-blog/futton-boil-release-in-the-naruto-universe"
+    },
+    {
+     "Jutsu (English)": "Boil Release: Unrivalled Strength",
+     "Romaji": "Futton: Kairiki Musō",
+     "Kanji": "沸遁・怪力無双",
+     "Description": "The user heats their chakra into pressurised steam and vents it to power up strikes; the steam also evaporates water and ice on contact.",
+     "Users": "Kokuō; its jinchūriki Han",
+     "Canon status": "Manga (ch. 564–565, 684; Fourth Databook p.326) / anime (ep. 325); game UNS3",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Boil_Release:_Unrivalled_Strength ; https://naruto-boutique.com/en/blogs/naruto-blog/futton-boil-release-in-the-naruto-universe"
+    },
+    {
+     "Jutsu (English)": "Boil Release: Steam Explosion",
+     "Romaji": "Futton: Jōki Bakuhatsu",
+     "Kanji": "沸遁・蒸気爆発",
+     "Description": "The user releases a burst of scalding steam that burns everything around them.",
+     "Users": "Naruto Uzumaki (NB only; Narutopedia user field not read)",
+     "Canon status": "Feat unnamed in manga/anime; name from game Naruto x Boruto: Ninja Voltage",
+     "Verification": "Verified (user single source: NB)",
+     "Source": "https://naruto.fandom.com/wiki/Boil_Release:_Steam_Explosion ; https://naruto-boutique.com/en/blogs/naruto-blog/futton-boil-release-in-the-naruto-universe"
+    },
+    {
+     "Jutsu (English)": "Boil Release: Flower Repentance Technique",
+     "Romaji": "Futton: Kazan no Jutsu",
+     "Kanji": "沸遁・華懺の術",
+     "Description": "The user's chakra makes corrosive vapour pockets rise from the ground and explode at different ranges; they badly hurt but do not melt a target outright. Narutopedia says Mei used it after mishearing Ao.",
+     "Users": "Mei Terumī",
+     "Canon status": "Game-only (Naruto Shippūden: Ultimate Ninja Impact, per NB)",
+     "Verification": "Verified (kanji/romaji from NB)",
+     "Source": "https://naruto.fandom.com/wiki/Boil_Release:_Flower_Repentance_Technique ; https://naruto-boutique.com/en/blogs/naruto-blog/futton-boil-release-in-the-naruto-universe"
+    },
+    {
+     "Jutsu (English)": "Steam Armour",
+     "Romaji": "Jōki no Yoroi",
+     "Kanji": "蒸気の鎧",
+     "Description": "Heavy plated armour over Han's arms, legs, torso and lower face, with a back furnace that stores and vents Boil Release steam. Equipment rather than a jutsu.",
+     "Users": "Han",
+     "Canon status": "Manga (ch. 515) / anime (ep. 205) (NB)",
+     "Verification": "Single source (NB; Narutopedia Steam Armour page unread)",
+     "Source": "https://naruto.fandom.com/wiki/Han ; https://naruto-boutique.com/en/blogs/naruto-blog/futton-boil-release-in-the-naruto-universe"
+    },
+    {
+     "Jutsu (English)": "Skilled Mist Technique – Henryū variant",
+     "Romaji": "Kōmu no Jutsu – Henryū",
+     "Kanji": "",
+     "Description": "The mist is condensed into a single advancing cloud.",
+     "Users": "",
+     "Canon status": "Game-only (Ultimate Ninja Storm Generations; NB only)",
+     "Verification": "Single source (NB); user unverified",
+     "Source": "https://naruto-boutique.com/en/blogs/naruto-blog/futton-boil-release-in-the-naruto-universe"
+    },
+    {
+     "Jutsu (English)": "Steam Charge (NB translation)",
+     "Romaji": "Jōki Bakushin",
+     "Kanji": "蒸気驀進",
+     "Description": "Han rams forward wreathed in steam, like a charging locomotive.",
+     "Users": "Han (in Killer B's dream)",
+     "Canon status": "Feat seen in anime (ep. 430); name from game Naruto Online (NB only)",
+     "Verification": "Single source (NB)",
+     "Source": "https://naruto-boutique.com/en/blogs/naruto-blog/futton-boil-release-in-the-naruto-universe"
+    },
+    {
+     "Jutsu (English)": "Eruption Propulsion Fist",
+     "Romaji": "Funsuiken",
+     "Kanji": "噴推拳",
+     "Description": "A steam-jet-propelled punch.",
+     "Users": "Han; Naruto Uzumaki",
+     "Canon status": "Feat seen in manga (ch. 564) and anime (ep. 324); name from UNS3 (NB only)",
+     "Verification": "Single source (NB)",
+     "Source": "https://naruto-boutique.com/en/blogs/naruto-blog/futton-boil-release-in-the-naruto-universe"
+    },
+    {
+     "Jutsu (English)": "Fungokyaku (steam kick)",
+     "Romaji": "Fungokyaku",
+     "Kanji": "",
+     "Description": "A steam-boosted kick.",
+     "Users": "Han",
+     "Canon status": "Feat seen in manga (ch. 564–565); name from UNS3 (NB only)",
+     "Verification": "Single source (NB)",
+     "Source": "https://naruto-boutique.com/en/blogs/naruto-blog/futton-boil-release-in-the-naruto-universe"
+    },
+    {
+     "Jutsu (English)": "Funkotō / Funjinshin",
+     "Romaji": "Funkotō / Funjinshin",
+     "Kanji": "",
+     "Description": "Two steam-based moves; NB gives no details.",
+     "Users": "Han",
+     "Canon status": "Game-only (UNS3; NB only)",
+     "Verification": "Single source (NB); classification as Boil Release unverified",
+     "Source": "https://naruto-boutique.com/en/blogs/naruto-blog/futton-boil-release-in-the-naruto-universe"
+    }
+   ]
+  },
+  "Storm": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Storm Release: Laser Circus",
+     "Romaji": "Ranton: Reizā Sākasu",
+     "Kanji": "嵐遁・励挫鎖苛素",
+     "Description": "Energy gathered in the hand fires several steerable, liquid-like beams that home in on multiple targets; they can be guided around hostages or fired en masse to pin an enemy down.",
+     "Users": "Darui; unnamed Kumogakure shinobi firing together (ch. 612)",
+     "Canon status": "Manga (debut ch. 464; explained ch. 527–528) / anime (ep. 203, corrected ep. 269)",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Storm_Release:_Laser_Circus ; https://naruto-boutique.com/en/blogs/naruto-blog/ranton-everything-about-daruis-storm-release-in-naruto"
+    },
+    {
+     "Jutsu (English)": "Sage Art: Storm Release Light Fang",
+     "Romaji": "Senpō: Ranton Kōga",
+     "Kanji": "仙法・嵐遁光牙",
+     "Description": "Senjutsu chakra fuels a thin, light-speed beam fired from the mouth that can cut through a Truth-Seeking Ball and is all but impossible to dodge.",
+     "Users": "Madara Uchiha, as the Ten-Tails' jinchūriki (NB; Narutopedia page listed no user)",
+     "Canon status": "Manga (ch. 674; Fourth Databook p.321) / anime (ep. 424)",
+     "Verification": "Verified (user single source: NB)",
+     "Source": "https://naruto.fandom.com/wiki/Sage_Art:_Storm_Release_Light_Fang ; https://naruto-boutique.com/en/blogs/naruto-blog/ranton-everything-about-daruis-storm-release-in-naruto"
+    },
+    {
+     "Jutsu (English)": "Storm Release: Thunder Cloud Inner Wave",
+     "Romaji": "Ranton: Raiunkūha",
+     "Kanji": "嵐遁・雷雲腔波",
+     "Description": "The user creates a ring of storm clouds crackling with electricity.",
+     "Users": "Hiruko (NB)",
+     "Canon status": "Movie-only (The Will of Fire); Narutopedia Storm Release page lists the movie",
+     "Verification": "Single source (NB; Narutopedia page unread)",
+     "Source": "https://naruto.fandom.com/wiki/Storm_Release:_Thunder_Cloud_Inner_Wave ; https://naruto-boutique.com/en/blogs/naruto-blog/ranton-everything-about-daruis-storm-release-in-naruto"
+    },
+    {
+     "Jutsu (English)": "Storm Release Secret Technique: 'Turbulence' (NP English title unverified)",
+     "Romaji": "Ranton Ōgi: Rankiryū",
+     "Kanji": "嵐遁奥義・嵐鬼龍",
+     "Description": "The user creates a giant cloud that absorbs chakra. (Pun on 乱気流 'turbulence'.)",
+     "Users": "Hiruko (NB)",
+     "Canon status": "Movie-only (The Will of Fire; NB only)",
+     "Verification": "Single source (NB)",
+     "Source": "https://naruto-boutique.com/en/blogs/naruto-blog/ranton-everything-about-daruis-storm-release-in-naruto"
+    },
+    {
+     "Jutsu (English)": "Storm Release: Black Hunting",
+     "Romaji": "Ranton: Burakku Hantingu",
+     "Kanji": "嵐遁・漆黒斑纏遇",
+     "Description": "No description found (Narutopedia page could not be read). NB says the kanji are ateji normally read 'Shikkoku Hantengu'.",
+     "Users": "Darui",
+     "Canon status": "Game-only (Ultimate Ninja Storm 3, per NB)",
+     "Verification": "Single source (NB; Narutopedia page unread)",
+     "Source": "https://naruto.fandom.com/wiki/Storm_Release:_Black_Hunting ; https://naruto-boutique.com/en/blogs/naruto-blog/ranton-everything-about-daruis-storm-release-in-naruto"
+    },
+    {
+     "Jutsu (English)": "Storm Release: Blue Eagle Blade (NB translation)",
+     "Romaji": "Ranton: Seishūjin",
+     "Kanji": "嵐遁・青鷲刃",
+     "Description": "No description found.",
+     "Users": "Darui",
+     "Canon status": "Game-only (Naruto: Shinobi Collection Shippū Ranbu; NB only)",
+     "Verification": "Single source (NB; no Narutopedia page found)",
+     "Source": "https://naruto-boutique.com/en/blogs/naruto-blog/ranton-everything-about-daruis-storm-release-in-naruto"
+    }
+   ]
+  },
+  "Scorch": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Scorch Release: Extremely Steaming Murder",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Small, sun-like fire orbs float around the user and can be sent at enemies; on contact they draw all the water out of a body, leaving a steaming, mummified corpse. In the anime, Water Release can neutralise them.",
+     "Users": "Pakura",
+     "Canon status": "Manga (ch. 522) / anime (ep. 265; Water Release counter ep. 285)",
+     "Verification": "Verified; romaji not found (believed 'Shakuton: Kajōsatsu', unverified)",
+     "Source": "https://naruto.fandom.com/wiki/Scorch_Release:_Extremely_Steaming_Murder"
+    },
+    {
+     "Jutsu (English)": "Scorch Release: Great Steaming Explosive Blast",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Several orbs merge into one huge orb that explodes over a wide area and leaves steam rising.",
+     "Users": "Pakura",
+     "Canon status": "Anime-only feat; name from game Naruto Shippūden: Ultimate Ninja Blazing",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Scorch_Release:_Great_Steaming_Explosive_Blast"
+    }
+   ]
+  },
+  "Explosion": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Explosive Clay (umbrella technique)",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Deidara kneads chakra into clay with the mouths on his palms, shapes explosive figures and detonates them with a seal ('katsu!'). Being earth-based, Lightning Release can defuse it. An Iwagakure kinjutsu.",
+     "Users": "Deidara",
+     "Canon status": "Manga (ch. 248–249, 356–361); anime; databooks; mentioned in Boruto ep. 78",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Explosive_Clay"
+    },
+    {
+     "Jutsu (English)": "C0 / Ultimate Art",
+     "Romaji": "Kyūkyoku Geijutsu",
+     "Kanji": "究極芸術",
+     "Description": "Deidara turns his own body into a bomb for a massive suicide blast.",
+     "Users": "Deidara",
+     "Canon status": "Manga / anime",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Explosive_Clay"
+    },
+    {
+     "Jutsu (English)": "C1",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Small clay creatures (birds, spiders and others) guided to a target and detonated.",
+     "Users": "Deidara",
+     "Canon status": "Manga / anime",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Explosive_Clay"
+    },
+    {
+     "Jutsu (English)": "C2 (Dragon)",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "A large clay dragon that fires small 'smart bomb' dragons and lays clay mines.",
+     "Users": "Deidara",
+     "Canon status": "Manga / anime",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Explosive_Clay"
+    },
+    {
+     "Jutsu (English)": "C3",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "A huge clay figure dropped to level a wide area.",
+     "Users": "Deidara",
+     "Canon status": "Manga / anime",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Explosive_Clay"
+    },
+    {
+     "Jutsu (English)": "C4 Karura",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Microscopic clay bombs that are inhaled or absorbed and then destroy the victim at the cellular level.",
+     "Users": "Deidara",
+     "Canon status": "Manga / anime",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Explosive_Clay ; https://naruto.fandom.com/wiki/C4"
+    },
+    {
+     "Jutsu (English)": "Explosion Release: Landmine Fist",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "After a direct punch, the user detonates a huge directional blast inside the opponent's body that can destroy foes far larger than the user, without recoil reaching the user. The anime also shows a weaker smoke-puff version. (Name puns on 地雷原 jiraigen, 'minefield'.)",
+     "Users": "Gari",
+     "Canon status": "Manga (ch. 522; Fourth Databook p.324) / anime (ep. 284)",
+     "Verification": "Verified; romaji not given",
+     "Source": "https://naruto.fandom.com/wiki/_Explosion_Release:_Landmine_Fist"
+    },
+    {
+     "Jutsu (English)": "Explosion Release: Defence Technique",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "A small, precisely timed palm explosion that knocks thrown kunai back at the thrower; it also cut the cloth binding Pakura.",
+     "Users": "Gari",
+     "Canon status": "Anime-only feat; name from game Naruto Mobile",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Explosion_Release:_Defence_Technique"
+    },
+    {
+     "Jutsu (English)": "(unnamed ability) Gari's ground shockwave",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "A ground shockwave produced with Explosion Release.",
+     "Users": "Gari",
+     "Canon status": "Anime-only (ep. 285)",
+     "Verification": "Verified (nature page)",
+     "Source": "https://naruto.fandom.com/wiki/Explosion_Release"
+    },
+    {
+     "Jutsu (English)": "Explosion Release: Impact",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists; surfaces in searches with Gari and games).",
+     "Users": "",
+     "Canon status": "Unverified (probably game-named)",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Explosion_Release:_Impact"
+    },
+    {
+     "Jutsu (English)": "Explosion Release: Instantaneous Incineration",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved; searches found no match for the exact title (URL only from v1 notes).",
+     "Users": "",
+     "Canon status": "Unverified",
+     "Verification": "Unverified",
+     "Source": "https://naruto.fandom.com/wiki/Explosion_Release:_Instantaneous_Incineration"
+    }
+   ]
+  },
+  "Magnet": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Iron Sand World Method",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Two masses of Iron Sand with opposite magnetic charges are merged so their repulsion explodes outward into a huge sphere of branching spikes that cuts off escape. Sasori's poison coating makes a scratch lethal.",
+     "Users": "Third Kazekage (original); Sasori (via the Third Kazekage puppet)",
+     "Canon status": "Manga (Sha no Sho p.257; fight vs Sakura/Chiyo); page itself states no medium",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Iron_Sand_World_Method"
+    },
+    {
+     "Jutsu (English)": "Iron Sand Drizzle",
+     "Romaji": "Satetsu Shigure",
+     "Kanji": "",
+     "Description": "Fires a wide, fast spray of hardened, poisoned Iron Sand grains like gunfire; can be accelerated by repulsion or shaped into needles, and jams puppet joints.",
+     "Users": "Sasori (via the Third Kazekage puppet); Third Kazekage",
+     "Canon status": "Page labels its source 'the anime' (the puppet fight is also in the manga; treat with caution)",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Iron_Sand_Drizzle"
+    },
+    {
+     "Jutsu (English)": "Iron Sand Scattered Showers",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Game version of Sasori's Iron Sand Drizzle (mentioned on the Drizzle page).",
+     "Users": "Sasori",
+     "Canon status": "Game",
+     "Verification": "Single source (mentioned on Iron Sand Drizzle page)",
+     "Source": "https://naruto.fandom.com/wiki/Iron_Sand_Drizzle"
+    },
+    {
+     "Jutsu (English)": "Iron Sand: Gathering Assault",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "A Third Kazekage technique shown through the puppet (per blog); description not verified.",
+     "Users": "Third Kazekage / Sasori (per blog)",
+     "Canon status": "Manga (fight vs Sakura/Chiyo), unverified",
+     "Verification": "Title only (Narutopedia page unread; named by NB blog)",
+     "Source": "https://naruto-boutique.com/en/blogs/naruto-blog/the-third-kazekage-the-master-of-iron-sand"
+    },
+    {
+     "Jutsu (English)": "Iron Sand: World Order",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved; may be the same as or related to Iron Sand World Method (not verified).",
+     "Users": "Third Kazekage / Sasori (presumed)",
+     "Canon status": "Unverified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Iron_Sand:_World_Order"
+    },
+    {
+     "Jutsu (English)": "Magnet Release: Gold Dust Imperial Funeral",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Rasa presses his palms to the ground, pulls a large mass of Gold Dust up from beneath the surface and drives it forward as a tidal wave; heavier than sand, it overwhelms Gaara's sand.",
+     "Users": "Rasa (Fourth Kazekage)",
+     "Canon status": "Manga ch. 546 (name from Fourth Databook p.256)",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Magnet_Release:_Gold_Dust_Imperial_Funeral"
+    },
+    {
+     "Jutsu (English)": "Magnet Release: Conserving Bee Twin Blades",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Magnetises whatever the user touches, with the magnetism chaining on through contact and weakening at each link. Toroi applies it to many shuriken so any target hit is pulled toward further metal attacks.",
+     "Users": "Toroi",
+     "Canon status": "Manga (ch. 546; name from Fourth Databook p.319)",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Magnet_Release:_Conserving_Bee_Twin_Blades"
+    },
+    {
+     "Jutsu (English)": "Magnet Release: Lightning God Self",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists; content not read).",
+     "Users": "",
+     "Canon status": "Unknown",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Magnet_Release:_Lightning_God_Self"
+    },
+    {
+     "Jutsu (English)": "Magnet Release: Spiral Jet Black",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists; content not read).",
+     "Users": "",
+     "Canon status": "Unknown",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Magnet_Release:_Spiral_Jet_Black"
+    },
+    {
+     "Jutsu (English)": "Sage Art: Magnet Release Rasengan",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "A Rasengan infused with Shukaku's Magnet Release to increase its pull; the impact spreads Shukaku's seal markings across the target and immobilises them.",
+     "Users": "Naruto Uzumaki",
+     "Canon status": "Manga (anime draws it as chakra; UNS4 calls it just 'Rasengan')",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Sage_Art:_Magnet_Release_Rasengan"
+    },
+    {
+     "Jutsu (English)": "(unnamed ability) Rasa's Gold Dust surges, walls and Gold Dust Eye",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Rasa's Gold Dust waves, barricades and remote-viewing eye; unnamed in manga/anime and named after Gaara's techniques in games.",
+     "Users": "Rasa",
+     "Canon status": "Manga ch. 546–547",
+     "Verification": "Verified (character page)",
+     "Source": "https://naruto.fandom.com/wiki/Rasa"
+    },
+    {
+     "Jutsu (English)": "(unnamed ability) Shinki's Iron Sand techniques",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Iron Sand cloak/armour, binding waves, levitation platforms, walls, 'Black Iron Fist', and a Lightning-enhanced electromagnetic field (the last anime-only).",
+     "Users": "Shinki",
+     "Canon status": "Boruto manga ch. 3; Boruto anime eps 57–61 and Kara Actuation arc",
+     "Verification": "Verified (character page)",
+     "Source": "https://naruto.fandom.com/wiki/Shinki"
+    }
+   ]
+  },
+  "Crystal": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Crystal Release: Crystal Pentagonal Prison",
+     "Romaji": "Shōton: Kesshō Gokakurō",
+     "Kanji": "晶遁・結晶五角牢",
+     "Description": "Pink crystal rises from the ground to encase targets; shattering it disintegrates the victims along with the crystal, and survivors show frostbite-like markings.",
+     "Users": "Guren",
+     "Canon status": "Anime + Game",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Crystal_Release:_Crystal_Pentagonal_Prison"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Jade Crystal Prison Technique",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Smaller-scale version that seals a single target in (pink, despite the name) crystal, which disintegrates them when shattered. Covering the body in chakra resists it.",
+     "Users": "Guren (a crystal clone used it on Hinata in ep. 97)",
+     "Canon status": "Anime-only",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Crystal_Release:_Jade_Crystal_Prison_Technique"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Jade Crystal Wall Eighth Formation",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Seals a large area in red crystal, crystallising everything inside. Used on the Three-Tails, which broke free.",
+     "Users": "Guren",
+     "Canon status": "Anime-only",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Crystal_Release:_Jade_Crystal_Wall_Eighth_Formation"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: String of Glory",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Guren hangs inside a stationary, translucent azure crystal prism that blocks nearly every attack and fires intense heat blasts from its tip.",
+     "Users": "Guren",
+     "Canon status": "Anime-only",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Crystal_Release:_String_of_Glory"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Crystal Imprisonment Wave",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Spreads a wave of pink crystal particles through the air to encase one or more targets; uses one-handed seals.",
+     "Users": "Guren (presumed; page names no user)",
+     "Canon status": "Anime-only (presumed)",
+     "Verification": "Verified (user presumed)",
+     "Source": "https://naruto.fandom.com/wiki/Crystal_Release:_Crystal_Imprisonment_Wave"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Crimson Fruit",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Builds a very durable pink crystal dome around a target, used either to protect it or to trap it.",
+     "Users": "Guren",
+     "Canon status": "Anime-only",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Crystal_Release:_Crimson_Fruit"
+    },
+    {
+     "Jutsu (English)": "Jade Crystal Clone Technique",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Six crystal clones step out of a Jade Crystal Mirror; sturdier than shadow clones, and their reflections confuse the Byakugan.",
+     "Users": "Guren",
+     "Canon status": "Anime-only (ep. 97)",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Jade_Crystal_Clone_Technique"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Jade Crystal Mirror",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Reflective crystal mirror used as the base for the clone technique.",
+     "Users": "Guren",
+     "Canon status": "Anime-only (ep. 97)",
+     "Verification": "Verified (episode page)",
+     "Source": "https://naruto.fandom.com/wiki/The_Labyrinth_of_Distorted_Reflection"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Jade Crystal Blade",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Crystal blades grown from the forearms for melee fighting.",
+     "Users": "Guren",
+     "Canon status": "Anime-only (ep. 97, ep. 105)",
+     "Verification": "Verified (episode pages)",
+     "Source": "https://naruto.fandom.com/wiki/The_Labyrinth_of_Distorted_Reflection ; https://naruto.fandom.com/wiki/The_Battle_Over_the_Barrier"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Jade Crystal Labyrinth Technique",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "A huge crystal dome or maze, also extending underground, that cut off Team Yamato.",
+     "Users": "Guren",
+     "Canon status": "Anime-only (ep. 97)",
+     "Verification": "Verified (episode page)",
+     "Source": "https://naruto.fandom.com/wiki/The_Labyrinth_of_Distorted_Reflection"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Crystal Needles",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Crystal needle projectiles.",
+     "Users": "Guren",
+     "Canon status": "Anime-only (ep. 89)",
+     "Verification": "Verified (episode page)",
+     "Source": "https://naruto.fandom.com/wiki/The_Price_of_Power"
+    },
+    {
+     "Jutsu (English)": "Crystal: Hexagonal Shuriken: Wild Dance",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "A volley of crystal hexagonal shuriken; Kabuto cut through them with a Chakra Scalpel in ep. 89.",
+     "Users": "Guren",
+     "Canon status": "Anime-only (ep. 89)",
+     "Verification": "Verified (episode page)",
+     "Source": "https://naruto.fandom.com/wiki/The_Price_of_Power"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Tearing Crystal Falling Dragon",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Large crystal attack used during the sealing-barrier battle against the Three-Tails.",
+     "Users": "Guren",
+     "Canon status": "Anime-only (ep. 105)",
+     "Verification": "Verified (episode page)",
+     "Source": "https://naruto.fandom.com/wiki/The_Battle_Over_the_Barrier"
+    },
+    {
+     "Jutsu (English)": "Crystal Armour",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Crystal body armour.",
+     "Users": "Guren",
+     "Canon status": "Anime-only (ep. 105)",
+     "Verification": "Verified (episode page)",
+     "Source": "https://naruto.fandom.com/wiki/The_Battle_Over_the_Barrier"
+    },
+    {
+     "Jutsu (English)": "Crystal: Hexagonal Shuriken",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "A single crystal shuriken (title only).",
+     "Users": "Guren",
+     "Canon status": "Anime/game",
+     "Verification": "Title only",
+     "Source": "http://anime-in-the-heart.blogspot.com/2014/04/anime-information-naruto-kekkei-genkai_9125.html"
+    },
+    {
+     "Jutsu (English)": "Crystal: Giant Hexagonal Shuriken",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "An enlarged crystal shuriken (title only).",
+     "Users": "Guren",
+     "Canon status": "Anime/game",
+     "Verification": "Title only",
+     "Source": "http://anime-in-the-heart.blogspot.com/2014/04/anime-information-naruto-kekkei-genkai_9125.html"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Shuriken Wild Dance",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (title only).",
+     "Users": "Guren",
+     "Canon status": "Anime/game",
+     "Verification": "Title only",
+     "Source": "http://anime-in-the-heart.blogspot.com/2014/04/anime-information-naruto-kekkei-genkai_9125.html"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Crystal Encampment Wall",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Crystal defensive wall (title only).",
+     "Users": "Guren",
+     "Canon status": "Anime/game",
+     "Verification": "Title only",
+     "Source": "http://anime-in-the-heart.blogspot.com/2014/04/anime-information-naruto-kekkei-genkai_9125.html"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Crystal Lance",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Crystal spear (title only).",
+     "Users": "Guren",
+     "Canon status": "Anime/game",
+     "Verification": "Title only",
+     "Source": "http://anime-in-the-heart.blogspot.com/2014/04/anime-information-naruto-kekkei-genkai_9125.html"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Crystal Wheel",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (title only).",
+     "Users": "Guren",
+     "Canon status": "Anime/game",
+     "Verification": "Title only",
+     "Source": "http://anime-in-the-heart.blogspot.com/2014/04/anime-information-naruto-kekkei-genkai_9125.html"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Growing Crystal Thorns",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (title only).",
+     "Users": "Guren",
+     "Canon status": "Anime/game",
+     "Verification": "Title only",
+     "Source": "http://anime-in-the-heart.blogspot.com/2014/04/anime-information-naruto-kekkei-genkai_9125.html"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: Jade Crystal Hexagonal Pillars",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (title only).",
+     "Users": "Guren",
+     "Canon status": "Anime/game",
+     "Verification": "Title only",
+     "Source": "http://anime-in-the-heart.blogspot.com/2014/04/anime-information-naruto-kekkei-genkai_9125.html"
+    },
+    {
+     "Jutsu (English)": "Crystal Release: The Gods' Crossings Technique",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (title only).",
+     "Users": "Guren",
+     "Canon status": "Anime/game",
+     "Verification": "Title only",
+     "Source": "http://anime-in-the-heart.blogspot.com/2014/04/anime-information-naruto-kekkei-genkai_9125.html"
+    }
+   ]
+  },
+  "Dust": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Dust Release: Detachment of the Primitive World Technique",
+     "Romaji": "Jinton: Genkai Hakuri no Jutsu",
+     "Kanji": "",
+     "Description": "A geometric structure (cube, cone or cylinder) with a core sphere forms between the palms and expands to engulf the target; the contained blast reduces everything inside to dust and can break chakra defences such as Susanoo.",
+     "Users": "Ōnoki; Mū; Kakō (Boruto anime)",
+     "Canon status": "Manga (ch. 466+); anime; Boruto anime (Kakō); The Last movie",
+     "Verification": "Verified (romaji from naruto-boutique)",
+     "Source": "https://naruto.fandom.com/wiki/Dust_Release:_Detachment_of_the_Primitive_World_Technique ; https://naruto-boutique.com/en/blogs/naruto-blog/jinton-in-naruto-everything-about-dust-release"
+    },
+    {
+     "Jutsu (English)": "Dust Release: Detachment of the Primitive World Technique Area",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Presumed wide-area version (Ōnoki's large-scale use against Madara's clones fits it); not verified.",
+     "Users": "Ōnoki (presumed)",
+     "Canon status": "Unverified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Dust_Release:_Detachment_of_the_Primitive_World_Technique_Area"
+    },
+    {
+     "Jutsu (English)": "Cone form",
+     "Romaji": "Entōkei",
+     "Kanji": "",
+     "Description": "Cone-shaped variant; Ōnoki used a conical Dust Release on Madara's trees.",
+     "Users": "Ōnoki",
+     "Canon status": "Manga (war climax)",
+     "Verification": "Verified (romaji from naruto-boutique)",
+     "Source": "https://naruto.fandom.com/wiki/%C5%8Cnoki ; https://naruto-boutique.com/en/blogs/naruto-blog/jinton-in-naruto-everything-about-dust-release"
+    },
+    {
+     "Jutsu (English)": "(unnamed ability) Mū's Dust Release",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Mū's generic Dust Release attacks; while split, his halved power made it disperse.",
+     "Users": "Mū",
+     "Canon status": "Manga/anime (ch. 560)",
+     "Verification": "Verified (character page)",
+     "Source": "https://naruto.fandom.com/wiki/M%C5%AB"
+    }
+   ]
+  },
+  "Swift": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Swift Release: Cranial Eighth Note",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Hiruko moves at near-instant speed and strikes from many angles at once; effective regardless of the opponent's speed or strength, especially against strength-based taijutsu fighters.",
+     "Users": "Hiruko",
+     "Canon status": "Movie (The Will of Fire); name from a Narutimate Cross card (unnamed in film)",
+     "Verification": "Verified (page loaded, but never uses the words 'Swift Release')",
+     "Source": "https://naruto.fandom.com/wiki/Swift_Release:_Cranial_Eighth_Note"
+    }
+   ]
+  },
+  "Steel": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Steel Release: Impervious Armour",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Turns part or all of the body into jet-black steel that blades cannot cut (Sai's tantō snapped against it). Resembles Kakuzu's Earth Spear.",
+     "Users": "Hiruko",
+     "Canon status": "Movie (The Will of Fire)",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Steel_Release:_Impervious_Armour"
+    },
+    {
+     "Jutsu (English)": "(unnamed ability) steel balls and shields",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Creates steel projectiles and shields.",
+     "Users": "Metoro Konjiki",
+     "Canon status": "Novel (Gaara Hiden)",
+     "Verification": "Verified (character/nature page)",
+     "Source": "https://naruto.fandom.com/wiki/Steel_Release ; https://naruto.fandom.com/wiki/Metoro_Konjiki"
+    },
+    {
+     "Jutsu (English)": "Lava + Steel 'pseudo-kekkei tōta' combination",
+     "Romaji": "Giji Kekkei Tōta",
+     "Kanji": "擬似血継淘汰",
+     "Description": "A combined attack of Lava Release and Steel Release.",
+     "Users": "Metoro and Etoro Konjiki (inferred in notes)",
+     "Canon status": "Novel (Gaara Hiden)",
+     "Verification": "Single source (Kekkei Tōta page; users inferred)",
+     "Source": "https://naruto.fandom.com/wiki/Kekkei_T%C5%8Dta"
+    },
+    {
+     "Jutsu (English)": "(unnamed ability) steel-weapon creation",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Forms steel weapons from the surroundings.",
+     "Users": "Unnamed Purple Moon Religion member",
+     "Canon status": "Novel (Sasuke Shinden)",
+     "Verification": "Verified (nature page)",
+     "Source": "https://naruto.fandom.com/wiki/Steel_Release"
+    }
+   ]
+  },
+  "Blaze": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Blaze Release: Kagutsuchi",
+     "Romaji": "Enton: Kagutsuchi",
+     "Kanji": "",
+     "Description": "Sasuke casts Amaterasu with one Mangekyō eye and moulds the flames with the other into barriers, spikes, flame swords and Susanoo enclosures, or fuses them with Chidori; he can hold the flames without being burned.",
+     "Users": "Sasuke Uchiha",
+     "Canon status": "Manga (ch. 463–464, 585, 632, 634, 641, 682); anime; Boruto anime ep. 135",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Blaze_Release:_Kagutsuchi"
+    },
+    {
+     "Jutsu (English)": "Blaze Release: Susanoo Kagutsuchi",
+     "Romaji": "Enton: Susanoo Kagutsuchi",
+     "Kanji": "炎遁・須佐能乎加具土命",
+     "Description": "Susanoo holds a black-flame orb and forms it into a cutting sword, volleys of magatama-shaped projectiles, or flame arrows.",
+     "Users": "Sasuke Uchiha",
+     "Canon status": "Manga (ch. 574+), anime, games",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Blaze_Release:_Susanoo_Kagutsuchi"
+    },
+    {
+     "Jutsu (English)": "Sword of Kagutsuchi",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Game name (Ultimate Ninja Storm 3) for the sword form of Susanoo Kagutsuchi.",
+     "Users": "Sasuke Uchiha",
+     "Canon status": "Game",
+     "Verification": "Single source (Susanoo Kagutsuchi page)",
+     "Source": "https://naruto.fandom.com/wiki/Blaze_Release:_Susanoo_Kagutsuchi ; https://naruto.fandom.com/wiki/Sword_of_Kagutsuchi"
+    },
+    {
+     "Jutsu (English)": "Blaze Release: Honoikazuchi",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "The user surrounds himself with Amaterasu and shapes it into spikes that impale anyone nearby; noted as used with the normal Sharingan.",
+     "Users": "Sasuke Uchiha",
+     "Canon status": "Not stated (likely anime/game; unverified)",
+     "Verification": "Single source (page only partially read)",
+     "Source": "https://naruto.fandom.com/wiki/Blaze_Release:_Honoikazuchi"
+    },
+    {
+     "Jutsu (English)": "Blaze Release: Kagutsuchi — Flying Flame",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists).",
+     "Users": "Sasuke (presumed)",
+     "Canon status": "Probably game; unverified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Blaze_Release:_Kagutsuchi_%E2%80%94_Flying_Flame"
+    },
+    {
+     "Jutsu (English)": "Blaze Release: Kagutsuchi — Heaven Step",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists).",
+     "Users": "Sasuke (presumed)",
+     "Canon status": "Probably game; unverified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Blaze_Release:_Kagutsuchi_%E2%80%94_Heaven_Step"
+    },
+    {
+     "Jutsu (English)": "Blaze Release: Kagutsuchi — Porcupine",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Not retrieved (page exists).",
+     "Users": "Sasuke (presumed)",
+     "Canon status": "Probably game; unverified",
+     "Verification": "Title only",
+     "Source": "https://naruto.fandom.com/wiki/Blaze_Release:_Kagutsuchi_%E2%80%94_Porcupine"
+    }
+   ]
+  },
+  "Mud": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "Mud Release: Mud Doll",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Forces mud down the opponent's throat (used on Hidan).",
+     "Users": "Ameyuki",
+     "Canon status": "Novel (Akatsuki Hiden: Evil Flowers in Full Bloom)",
+     "Verification": "Verified (character page; romaji/kanji not found)",
+     "Source": "https://naruto.fandom.com/wiki/Ameyuki"
+    },
+    {
+     "Jutsu (English)": "Mud Release: Landslide",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Brings a mountainside down as a mudslide; Ameyuki used it to bury the town of Shangri-la (Hidan killed him afterwards).",
+     "Users": "Ameyuki",
+     "Canon status": "Novel (Akatsuki Hiden)",
+     "Verification": "Verified (character page; romaji/kanji not found)",
+     "Source": "https://naruto.fandom.com/wiki/Ameyuki"
+    },
+    {
+     "Jutsu (English)": "(unnamed ability) mud clone",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Makes a mud copy of the user that follows orders.",
+     "Users": "Ameyuki",
+     "Canon status": "Novel (Akatsuki Hiden)",
+     "Verification": "Verified (character page)",
+     "Source": "https://naruto.fandom.com/wiki/Ameyuki"
+    },
+    {
+     "Jutsu (English)": "(unnamed ability) ground-to-mud",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Turns the ground into mud; Ameyuki used it to stop Hidan from drawing Jashin's ritual symbol.",
+     "Users": "Ameyuki",
+     "Canon status": "Novel (Akatsuki Hiden)",
+     "Verification": "Verified (character page)",
+     "Source": "https://naruto.fandom.com/wiki/Ameyuki"
+    }
+   ]
+  },
+  "Typhoon": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "(unnamed ability) Typhoon Release winds",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Summons violent winds that cut down enemies or block their view.",
+     "Users": "Nowaki",
+     "Canon status": "Novel (Sasuke Shinden: Book of Sunrise) + anime adaptation (Shippūden eps. 484–488 range)",
+     "Verification": "Verified (character page)",
+     "Source": "https://naruto.fandom.com/wiki/Nowaki"
+    },
+    {
+     "Jutsu (English)": "(unnamed ability) stronger Typhoon Release",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "A larger storm that can cover a whole island; it overpowered Sasuke's complete-body Susanoo and briefly forced him onto the defensive.",
+     "Users": "Nowaki",
+     "Canon status": "Novel + anime adaptation",
+     "Verification": "Verified (character page)",
+     "Source": "https://naruto.fandom.com/wiki/Nowaki"
+    }
+   ]
+  },
+  "Dark": {
+   "headers": [
+    "Jutsu (English)",
+    "Romaji",
+    "Kanji",
+    "Description",
+    "Users",
+    "Canon status",
+    "Verification",
+    "Source"
+   ],
+   "rows": [
+    {
+     "Jutsu (English)": "(unnamed ability) Dark Release absorption",
+     "Romaji": "",
+     "Kanji": "",
+     "Description": "Through a mark on his left hand, Hiruko absorbs incoming chakra and techniques and can release them again.",
+     "Users": "Hiruko",
+     "Canon status": "Movie-only (Inheritors of the Will of Fire, 2009)",
+     "Verification": "Verified",
+     "Source": "https://naruto.fandom.com/wiki/Dark_Release ; https://myanimelist.net/character/24325"
+    }
+   ]
+  },
+  "Sources & Notes": {
+   "headers": [
+    "Item",
+    "Detail"
+   ],
+   "rows": [
+    {
+     "Item": "About this workbook",
+     "Detail": ""
+    },
+    {
+     "Item": "Access caveat",
+     "Detail": "Narutopedia's Category pages (e.g. Category:Wood_Release), the MediaWiki API, BreezeWiki/antifandom mirrors and other-language editions were inaccessible during research, and many individual jutsu pages failed to load. Jutsu lists were rebuilt from nature pages, individual jutsu/character/episode pages, Pixiv Encyclopedia (Japanese), a Naruto Boutique blog and search results. Lists may therefore be incomplete, especially for game-only jutsu."
+    },
+    {
+     "Item": "Descriptions",
+     "Detail": "All descriptions are paraphrases taken from the research notes, not quotations."
+    },
+    {
+     "Item": "Blank cells",
+     "Detail": "Romaji, kanji or users are left blank where the notes did not provide them; nothing was filled in from memory."
+    },
+    {
+     "Item": "Corrections applied",
+     "Detail": "Mud Release is Novel-only (Akatsuki Hiden: Evil Flowers in Full Bloom), not anime-only. Blaze Release is a Mangekyō Sharingan ability (Sasuke, Kagutsuchi); its Fire + Lightning pairing comes only from the mobile game Naruto Mobile. Guren is confirmed as the Crystal Release user."
+    },
+    {
+     "Item": "Known conflicts",
+     "Detail": "Ice Sword Technique: Pixiv credits Rahyō, Narutopedia credits Kahyō. Lava Rubber Spheres: Narutopedia says manga, Pixiv says novel-original. Planet-Branding Blast: page content showed the name 'Muddy Stream Wave'. (Boil Release: corrected — Kokuō is the Five-Tails; its jinchūriki is Han, not Utakata.)"
+    },
+    {
+     "Item": "Verification labels",
+     "Detail": ""
+    },
+    {
+     "Item": "Verified",
+     "Detail": "Description and users come from a page that was actually fetched and read (jutsu, character, episode or nature page). Qualifiers in brackets note partial issues."
+    },
+    {
+     "Item": "Single source",
+     "Detail": "Details come from one secondary source only (e.g. Pixiv Encyclopedia or the Naruto Boutique blog) without a matching Narutopedia page being read."
+    },
+    {
+     "Item": "Title only",
+     "Detail": "A page with this title exists (seen in search results or a list) but its content was not retrieved; description/users/status are unverified."
+    },
+    {
+     "Item": "Unverified",
+     "Detail": "A lead from researcher memory or an unconfirmed URL; treat as a lead, not a fact."
+    },
+    {
+     "Item": "romanised from kanji",
+     "Detail": "Romaji was transliterated by the researcher from the kanji given in the source, not quoted from the source."
+    },
+    {
+     "Item": "(unnamed ability)",
+     "Detail": "A described use of the nature that has no official jutsu name."
+    },
+    {
+     "Item": "Canon status key",
+     "Detail": "Manga = Kishimoto's manga or databooks; Anime-only = filler; Movie; Novel (Hiden/Shinden); Game; Boruto. 'Name from game' means the feat appears in canon but its name comes from a game."
+    },
+    {
+     "Item": "Main sources",
+     "Detail": ""
+    },
+    {
+     "Item": "Narutopedia: Nature Transformation",
+     "Detail": "https://naruto.fandom.com/wiki/Nature_Transformation"
+    },
+    {
+     "Item": "Narutopedia: Kekkei Genkai",
+     "Detail": "https://naruto.fandom.com/wiki/Kekkei_Genkai"
+    },
+    {
+     "Item": "Narutopedia: Kekkei Tōta",
+     "Detail": "https://naruto.fandom.com/wiki/Kekkei_T%C5%8Dta"
+    },
+    {
+     "Item": "Narutopedia: nature pages",
+     "Detail": "https://naruto.fandom.com/wiki/Wood_Release (and Ice_Release, Lava_Release, Boil_Release, Storm_Release, Scorch_Release, Explosion_Release, Magnet_Release, Crystal_Release, Dust_Release, Steel_Release, Mud_Release, Typhoon_Release, Dark_Release)"
+    },
+    {
+     "Item": "Narutopedia mirror: Swift Release",
+     "Detail": "https://naruto-fandom.fandom.com/wiki/Swift_Release?oldid=5444"
+    },
+    {
+     "Item": "Narutopedia: Blaze Release: Kagutsuchi",
+     "Detail": "https://naruto.fandom.com/wiki/Blaze_Release:_Kagutsuchi"
+    },
+    {
+     "Item": "Narutopedia: Ameyuki / Nowaki",
+     "Detail": "https://naruto.fandom.com/wiki/Ameyuki ; https://naruto.fandom.com/wiki/Nowaki"
+    },
+    {
+     "Item": "Pixiv Encyclopedia: 木遁(NARUTO)",
+     "Detail": "https://dic.pixiv.net/a/木遁(NARUTO)"
+    },
+    {
+     "Item": "Pixiv Encyclopedia: 氷遁",
+     "Detail": "https://dic.pixiv.net/a/氷遁"
+    },
+    {
+     "Item": "Pixiv Encyclopedia: 熔遁",
+     "Detail": "https://dic.pixiv.net/a/熔遁"
+    },
+    {
+     "Item": "Naruto Boutique: Futton (Boil)",
+     "Detail": "https://naruto-boutique.com/en/blogs/naruto-blog/futton-boil-release-in-the-naruto-universe"
+    },
+    {
+     "Item": "Naruto Boutique: Ranton (Storm)",
+     "Detail": "https://naruto-boutique.com/en/blogs/naruto-blog/ranton-everything-about-daruis-storm-release-in-naruto"
+    },
+    {
+     "Item": "Naruto Boutique: Jinton (Dust)",
+     "Detail": "https://naruto-boutique.com/en/blogs/naruto-blog/jinton-in-naruto-everything-about-dust-release"
+    },
+    {
+     "Item": "Anime in the Heart blog (Crystal list mirror)",
+     "Detail": "http://anime-in-the-heart.blogspot.com/2014/04/anime-information-naruto-kekkei-genkai_9125.html"
+    },
+    {
+     "Item": "Boruto Wiki: Kekkei Genkai",
+     "Detail": "https://boruto.fandom.com/wiki/Kekkei_Genkai"
+    },
+    {
+     "Item": "MyAnimeList: Guren / Hiruko",
+     "Detail": "https://myanimelist.net/character/20013 ; https://myanimelist.net/character/24325"
+    },
+    {
+     "Item": "Wikipedia: Shippuden season 5",
+     "Detail": "https://en.wikipedia.org/wiki/Naruto:_Shippuden_season_5"
+    },
+    {
+     "Item": "Excluded",
+     "Detail": "Fanon wikis (narutofanon, roadtoninja, narutoprofile etc.) and RP forums were deliberately excluded."
+    }
+   ]
+  }
+ }
+}

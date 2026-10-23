@@ -1,0 +1,22 @@
+[gd_resource type="Resource" script_class="AbilityData" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/abilities/ability_data.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = "lightning_bolt"
+display_name = "Lightning Bolt"
+nature = "lightning"
+source = "proposed"
+catalog_ref = "Nature Chart: Lightning Release (element only; the bolt is a gameplay addition)"
+effect = "projectile"
+cooldown = 0.55
+max_range = 700.0
+color = Color(1, 0.92, 0.3, 1)
+params = {
+"conduct_damage": 40.0,
+"conduct_stun": 1.2,
+"damage": 14.0,
+"speed": 820.0,
+"wet_multiplier": 1.5
+}

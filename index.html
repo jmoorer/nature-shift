@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nature Shift - Combat Prototype</title>
+<style>
+  :root {
+    --arena: #2a5a2a;
+    --water: #4a90e2;
+    --lightning: #f5e619;
+    --player: #4CAF50;
+    --enemy: #e53935;
+    --hp-player: #4CAF50;
+    --hp-enemy: #e53935;
+    --ui-bg: rgba(0,0,0,0.6);
+    --text: #e0e0e0;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { height: 100%; overflow: hidden; font-family: 'Courier New', monospace; background: #000; }
+  #gameCanvas { display: block; width: 100vw; height: 100vh; background: var(--arena); }
+  #ui { position: absolute; top: 20px; left: 20px; z-index: 10; pointer-events: none; }
+  .panel { background: var(--ui-bg); padding: 12px 16px; border-radius: 6px; margin-bottom: 10px; min-width: 220px; }
+  .panel h3 { color: var(--text); font-size: 14px; margin-bottom: 6px; }
+  .bar-container { width: 200px; height: 20px; background: #333; border-radius: 4px; overflow: hidden; margin-bottom: 6px; }
+  .bar-fill { height: 100%; transition: width 0.1s linear; }
+  .bar-player { background: var(--hp-player); }
+  .bar-enemy { background: var(--hp-enemy); }
+  .ability { display: inline-block; width: 18px; height: 18px; margin-right: 4px; border-radius: 3px; vertical-align: middle; }
+  .ability.water { background: var(--water); box-shadow: 0 0 8px var(--water); }
+  .ability.lightning { background: var(--lightning); box-shadow: 0 0 8px var(--lightning); }
+  .ability.cd { opacity: 0.4; }
+  .hint { position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); background: var(--ui-bg); padding: 10px 20px; border-radius: 6px; font-size: 13px; color: var(--text); }
+  .flash { position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; z-index: 5; mix-blend-mode: screen; }
+  .flash-hit { background: rgba(255,255,255,0.5); animation: flashHit 0.3s; }
+  .flash-miss { background: rgba(100,100,100,0.3); animation: flashMiss 0.3s; }
+  @keyframes flashHit { 0% { opacity: 1; } 100% { opacity: 0; } }
+  @keyframes flashMiss { 0% { opacity: 0.6; } 100% { opacity: 0; } }
+</style>
+</head>
+<body>
+<canvas id="gameCanvas"></canvas>
+<div id="ui">
+  <div class="panel">
+    <h3>Player</h3>
+    <div class="bar-container"><div id="bar-player" class="bar-fill bar-player" style="width: 100%"></div></div>
+    <div id="status-player" style="color: var(--text); font-size: 13px;">Healthy</div>
+  </div>
+  <div class="panel">
+    <h3>Enemy</h3>
+    <div class="bar-container"><div id="bar-enemy" class="bar-fill bar-enemy" style="width: 100%"></div></div>
+    <div id="status-enemy" style="color: var(--text); font-size: 13px;">Patrolling</div>
+  </div>
+  <div class="panel">
+    <h3>Abilities</h3>
+    <div>
+      <span id="ab-water" class="ability water"></span>
+      Water (Q) — Conductive Pool
+      <span id="ab-lightning" class="ability lightning"></span>
+      Lightning (E) — Chain
+    </div>
+    <div style="margin-top: 8px; font-size: 12px; color: #aaa;">
+      <div>Cooldown: <span id="cd-water">0.0</span>s | <span id="cd-lightning">0.0</span>s</div>
+      <div style="margin-top:4px;">R: Restart encounter</div>
+    </div>
+  </div>
+</div>
+<div id="hint" class="hint">
+  WASD / Arrow keys: Move | Mouse: Aim | Q: Water | E: Lightning | R: Restart
+</div>
+<div id="flash" class="flash"></div>
+<script src="src/main.js"></script>
+</body>
+</html>
